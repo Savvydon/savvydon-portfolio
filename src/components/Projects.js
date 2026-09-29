@@ -53,7 +53,7 @@ const projectsData = [
     category: "system",
     icon: <FaHospital />,
     image: "/images/hms.png",
-    github: "https://github.com/Savvydon/hms",
+    github: "https://hms-gamma-eight.vercel.app/",
     live: null,
     stats: { type: "HMS", status: "Active" },
   },
