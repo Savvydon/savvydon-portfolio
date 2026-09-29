@@ -23,13 +23,6 @@ import {
   FaGlobe,
 } from "react-icons/fa";
 
-/*
-  TO ADD REAL SCREENSHOTS:
-  1. Take screenshots of your projects (800x500px recommended)
-  2. Save them to: public/images/
-  3. Update the 'image' field below from placeholder to: "/images/your-screenshot.jpg"
-*/
-
 const projectsData = [
   {
     id: 1,
